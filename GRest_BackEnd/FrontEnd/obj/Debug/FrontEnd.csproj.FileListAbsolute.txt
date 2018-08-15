@@ -1,0 +1,11 @@
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\FrontEnd\obj\Debug\FrontEnd.com.eccorreiati.apresentacoes.acessologin.frmlog_in.resources
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.cache
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\FrontEnd\obj\Debug\FrontEnd.com.eccorreiati.apresentacoes.acessologin.ucfrmLogin.frmLogin.resources
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\FrontEnd\obj\Debug\FrontEnd.com.eccorreiati.apresentacoes.acessologin.ResetSenha_passo1.resources

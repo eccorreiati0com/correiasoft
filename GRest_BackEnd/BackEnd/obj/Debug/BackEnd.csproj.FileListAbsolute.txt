@@ -1,0 +1,7 @@
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\BackEnd\bin\Debug\BackEnd.exe
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\BackEnd\obj\Debug\BackEnd.Properties.Resources.resources
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\BackEnd\obj\Debug\BackEnd.csproj.GenerateResource.cache
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\BackEnd\obj\Debug\BackEnd.exe
+C:\Users\EDCCORREIA\Documents\Visual Studio 2017\Projectos\GRest_BackEnd\BackEnd\obj\Debug\BackEnd.pdb
